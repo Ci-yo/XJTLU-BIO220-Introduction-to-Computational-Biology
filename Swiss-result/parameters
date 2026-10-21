@@ -1,0 +1,7 @@
+Date: Sun 30 Nov 2025 02:24:11 
+Ligand: CC(C)C[C@H](N[C@@H](CC1=CN=CN1CC1=CC(Cl)=CC(Cl)=C1)C(O)=O)C(O)=O
+Method: Vina
+Target: ace2_apo_1R4L.pdb
+Sampling exhaustivity: 4
+Box size: 20 20 20
+Box center: 39.0 8.0 22.0
