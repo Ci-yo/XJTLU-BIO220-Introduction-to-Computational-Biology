@@ -1,4 +1,4 @@
-# Final revision
+# Note
 
 - [Week 13 recap](Week_13_Recap.pdf)
 - [Review questions](BIO220%E9%A2%98%E7%9B%AE.pdf)

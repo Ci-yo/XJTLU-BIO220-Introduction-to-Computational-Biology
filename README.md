@@ -4,17 +4,17 @@ If you are interested in computational biology, this course can be a fun place t
 
 The exam mainly covers the earlier part of the course. Make sure you understand the ideas and remember the key points. Past BIO311 and BIO220 papers, along with coursework questions, can help you prepare.
 
-For CW2, you can look at [my MOR structure project](https://github.com/Ci-yo/BIO220_CW2_MOR-Structure). I have also included [detailed notes for the final exam](revision/README.md).
+For CW2, you can look at [my MOR structure project](https://github.com/Ci-yo/BIO220_CW2_MOR-Structure). I have also included [detailed notes for the final exam](Note/).
 
 ## Materials
 
 | Folder | Contents |
 |---|---|
-| [Lecture slides](lectures/README.md) | Seven lecture PDFs |
-| [Coursework](coursework/README.md) | Two CW1 files, a link to the CW2 project, and one CW3 PDF |
-| [Final revision](revision/README.md) | The Week 13 recap and three study notes |
-| [Journal papers](references/README.md) | Five papers from the journal reading folder |
-| [BIO311 past papers](exams/README.md) | Three BIO311 papers kept under their original course code |
+| [Lecture slides](Lectures/) | Seven lecture PDFs |
+| [Coursework](Coursework/) | CW1 files, CW2 files and project link, and CW3 files and references |
+| [Note](Note/) | The Week 13 recap and three study notes |
+| [Journal papers](References/) | Five papers from the journal reading folder |
+| [BIO311 past papers](Exams/) | Three BIO311 papers kept under their original course code |
 
 ## How to use
 

@@ -1,0 +1,8 @@
+﻿chain,start,end,length,avg_score,model,bin
+A,1,61,61,34.04,AlphaFold (pLDDT < 50),lowest
+A,396,400,5,44.07,AlphaFold (pLDDT < 50),lowest
+F,262,279,18,0.65,SWISS-MODEL (QMEANDisCo < 0.5),next_low
+F,224,232,9,0.64,SWISS-MODEL (QMEANDisCo < 0.5),next_low
+F,309,317,9,0.63,SWISS-MODEL (QMEANDisCo < 0.5),next_low
+F,97,102,6,0.64,SWISS-MODEL (QMEANDisCo < 0.5),next_low
+F,346,351,6,0.58,SWISS-MODEL (QMEANDisCo < 0.5),next_low

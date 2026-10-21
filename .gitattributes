@@ -2,3 +2,6 @@
 *.md text eol=lf
 *.sha256 text eol=lf
 *.pdf binary
+Coursework/CW2/*.csv -text
+Coursework/CW2/*.fasta -text
+Coursework/CW2/*.gz binary
